@@ -21,11 +21,15 @@
 
 ## I'm a Developer and student!!
 
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 - 🔭 I'm currently working to make my portfolio website
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with web development & python projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to travel and playing games
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: annamalaipalani11@gmail.com;
 
 <br />
 
