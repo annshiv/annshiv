@@ -3,16 +3,16 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/annamalai923/">
-  <img align="left" alt="Saran's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Annamalai's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/craziest_king_/">
-  <img align="left" alt="Saran's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Annamalai's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://leetcode.com/Annshiv/">
-  <img align="left" alt="Saran's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Annamalai's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <a href="https://www.hackerrank.com/annshiv">
-  <img align="left" alt="Saran's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="left" alt="Annamalai's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=annshiv.annshiv)
@@ -51,4 +51,18 @@
 <br />
 <br />
 
-![Annshiv's github stats](https://github-readme-stats.vercel.app/api?username=annshiv&show_icons=true&hide_border=true)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=annshiv&show_icons=true&hide_border=true" alt="Annshiv" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annshiv&layout=compact" alt="Annshiv" />
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=annshiv" />
+<img src="https://badges.pufler.dev/years/annshiv?&logo=github&logoColor=yellow" />
+<img src="https://badges.pufler.dev/repos/annshiv?&logo=github&logoColor=yellow" />
+<img src="https://badges.pufler.dev/updated/annshiv/annshiv?&logo=github&logoColor=yellow" />
+<img src="https://badges.pufler.dev/created/annshiv/annshiv?&logo=github&logoColor=yellow" />
+<img src="https://badges.pufler.dev/commits/monthly/annshiv?&logo=github&logoColor=yellow" />
+
