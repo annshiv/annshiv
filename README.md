@@ -62,7 +62,5 @@
 <img src="https://komarev.com/ghpvc/?username=annshiv" />
 <img src="https://badges.pufler.dev/years/annshiv?&logo=github&logoColor=yellow" />
 <img src="https://badges.pufler.dev/repos/annshiv?&logo=github&logoColor=yellow" />
-<img src="https://badges.pufler.dev/updated/annshiv/annshiv?&logo=github&logoColor=yellow" />
-<img src="https://badges.pufler.dev/created/annshiv/annshiv?&logo=github&logoColor=yellow" />
 <img src="https://badges.pufler.dev/commits/monthly/annshiv?&logo=github&logoColor=yellow" />
 
