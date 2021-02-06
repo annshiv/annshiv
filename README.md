@@ -1,22 +1,5 @@
 ### Hey 👋🏽, I'm Annamalai
 
-<br/>
-
-<a href="https://www.linkedin.com/in/annamalai923/">
-  <img align="left" alt="Annamalai's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/craziest_king_/">
-  <img align="left" alt="Annamalai's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://leetcode.com/Annshiv/">
-  <img align="left" alt="Annamalai's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.hackerrank.com/annshiv">
-  <img align="left" alt="Annamalai's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=annshiv.annshiv)
-
 <br />
 
 ## I'm a Developer and student!!
@@ -32,6 +15,17 @@
 - 📫 How to reach me: annamalaipalani11@gmail.com;
 
 <br />
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/Annamalai345" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tush_tr604" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/annamalai923/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tushar-r-849510116" height="30" width="40" /></a>
+<a href="https://www.instagram.com/craziest_king_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tush_tr" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/annshiv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="tush_tr" height="30" width="40" /></a>
+<a href="https://leetcode.com/Annshiv/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="tush_tr" height="30" width="40" /></a>
+</p>
+
 
 ### Languages and Tools:
 
