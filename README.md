@@ -28,7 +28,7 @@
 
 <h2>Skills</h2>
 <p> 
-<img src="https://github.com/annshiv/annshiv/blob/main/Materials/js.gif" height="70"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="70"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"height="70"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"height="70"/> 
+<img src="https://github.com/annshiv/annshiv/blob/main/Materials/js.gif" height="70"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="70"/>
 </p>
 
 <h3>Development tools and frameworks:</h3>
@@ -50,7 +50,7 @@
 </p>
 <h3>Databases:</h3>
 <p>
-<img src="https://github.com/annshiv/annshiv/blob/main/Materials/mongo.gif" alt="mongodb" width="50" height="60"/><img src="https://github.com/annshiv/annshiv/blob/main/Materials/postgresql.gif" alt="postgresql" width="50" height="60"/> 
+<img src="https://github.com/annshiv/annshiv/blob/main/Materials/mysql.gif" alt="mysql" width="50" height="60"/><img src="https://github.com/annshiv/annshiv/blob/main/Materials/mongo.gif" alt="mongodb" width="50" height="60"/><img src="https://github.com/annshiv/annshiv/blob/main/Materials/postgresql.gif" alt="postgresql" width="50" height="60"/> 
 </p>
 
 <p align="center">
