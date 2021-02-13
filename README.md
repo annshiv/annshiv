@@ -28,7 +28,7 @@
 
 <h2>Skills</h2>
 <p> 
-<img src="https://github.com/annshiv/annshiv/blob/main/Materials/js.gif" height="70"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="70"/><img src="https://github.com/annshiv/annshiv/blob/main/Materials/js.gif" height="70">
 </p>
 
 <h3>Development tools and frameworks:</h3>
