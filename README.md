@@ -59,7 +59,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=annshiv" alt="Annshiv" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=annshiv&show_icons=true&hide_border=true" alt="Annshiv" />
+<img src="https://github-readme-stats.vercel.app/api?username=annshiv&show_icons=true" alt="Annshiv" />
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annshiv&layout=compact" alt="Annshiv" />
