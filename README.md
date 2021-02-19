@@ -53,6 +53,10 @@
 <img src="https://github.com/annshiv/annshiv/blob/main/Materials/mysql.png" alt="mysql" width="50" height="60"/><img src="https://github.com/annshiv/annshiv/blob/main/Materials/mongo.gif" alt="mongodb" width="50" height="60"/><img src="https://github.com/annshiv/annshiv/blob/main/Materials/postgresql.gif" alt="postgresql" width="50" height="60"/> 
 </p>
 
+### Github Trophies:-
+[![trophy](https://github-profile-trophy.vercel.app/?username=annshiv&theme=gruvbox)](https://github.com/annshiv/github-profile-trophy)
+
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=annshiv" alt="Annshiv" />
 </p>
@@ -63,9 +67,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annshiv&layout=compact" alt="Annshiv" />
 </p>
 
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=annshiv" />
 <img src="https://badges.pufler.dev/years/annshiv?&logo=github&logoColor=yellow" />
 <img src="https://badges.pufler.dev/repos/annshiv?&logo=github&logoColor=yellow" />
 <img src="https://badges.pufler.dev/commits/monthly/annshiv?&logo=github&logoColor=yellow" />
+
 
