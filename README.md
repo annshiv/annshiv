@@ -1,6 +1,4 @@
-### Hey 👋🏽, I'm Annamalai
-
-<br />
+<h2 align="center"> Hey 👋🏽, I'm Annamalai </h2>
 
 ## I'm a Developer and student!!
 
