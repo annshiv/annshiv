@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/Annamalai345" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tush_tr604" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/annamalai923/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tushar-r-849510116" height="30" width="40" /></a>
-<a href="https://www.instagram.com/craziest_king_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tush_tr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/annshiv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="tush_tr" height="30" width="40" /></a>
-<a href="https://leetcode.com/Annshiv/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="tush_tr" height="30" width="40" /></a>
+<a href="https://twitter.com/Annamalai345" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Annamalai345" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/annamalai923/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="annamalai923" height="30" width="40" /></a>
+<a href="https://www.instagram.com/craziest_king_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="craziest_king_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/annshiv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="annshiv" height="30" width="40" /></a>
+<a href="https://leetcode.com/Annshiv/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="annshiv" height="30" width="40" /></a>
 </p>
 
 <h2>Skills</h2>
@@ -38,7 +38,6 @@
 
 <img src="https://github.com/annshiv/annshiv/blob/main/Materials/react.gif" alt="react" width="50" height="60"/>
 <img src="https://github.com/annshiv/annshiv/blob/main/Materials/node.gif" alt="nodejs" width="50" height="60"/>
-<img src="https://github.com/annshiv/annshiv/blob/main/Materials/django.png" alt="django" width="50" height="60"/>
 
 </p>
 
