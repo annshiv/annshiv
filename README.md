@@ -53,6 +53,10 @@
 ### Github Trophies:-
 [![trophy](https://github-profile-trophy.vercel.app/?username=annshiv&theme=gruvbox)](https://github.com/annshiv/github-profile-trophy)
 
+<p align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=annshiv&theme=xcode" alt="annshiv" />
+</p>
+
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=annshiv" alt="Annshiv" />
