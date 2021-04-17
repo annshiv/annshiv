@@ -51,7 +51,11 @@
 </p>
 
 ### Github Trophies:-
-[![trophy](https://github-profile-trophy.vercel.app/?username=annshiv&theme=gruvbox)](https://github.com/annshiv/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=annshiv&theme=gruvbox"/>
+  </a>
+</p>
 
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=annshiv&theme=xcode" alt="annshiv" />
