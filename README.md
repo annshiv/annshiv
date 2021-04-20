@@ -63,10 +63,10 @@
 
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=annshiv" alt="Annshiv" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=annshiv&theme=dark" alt="Annshiv" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=annshiv&show_icons=true" alt="Annshiv" />
+<img src="https://github-readme-stats.vercel.app/api?username=annshiv&show_icons=true&theme=dark" alt="Annshiv" />
 </p>
 
 
