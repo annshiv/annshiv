@@ -66,12 +66,3 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=annshiv&theme=dark" alt="Annshiv" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=annshiv&show_icons=true&theme=dark" alt="Annshiv" />
 </p>
-
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=annshiv" />
-<img src="https://badges.pufler.dev/years/annshiv?&logo=github&logoColor=yellow" />
-<img src="https://badges.pufler.dev/repos/annshiv?&logo=github&logoColor=yellow" />
-<img src="https://badges.pufler.dev/commits/monthly/annshiv?&logo=github&logoColor=yellow" />
-
-
