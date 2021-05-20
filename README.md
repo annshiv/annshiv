@@ -14,7 +14,6 @@
 
 <br />
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/Annamalai345" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Annamalai345" height="30" width="40" /></a>
@@ -26,7 +25,10 @@
 
 <h2>Skills</h2>
 <p> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="70"/><img src="https://github.com/annshiv/annshiv/blob/main/Materials/js.gif" height="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="70"/>
+<img src="https://github.com/annshiv/annshiv/blob/main/Materials/js.gif" height="70">
+</p>
+<img src="https://github.com/annshiv/annshiv/blob/main/Materials/ts.png" height="70">
 </p>
 
 <h3>Development tools and frameworks:</h3>
@@ -46,10 +48,12 @@
 </p>
 <h3>Databases:</h3>
 <p>
-<img src="https://github.com/annshiv/annshiv/blob/main/Materials/mysql.png" alt="mysql" width="50" height="60"/><img src="https://github.com/annshiv/annshiv/blob/main/Materials/mongo.gif" alt="mongodb" width="50" height="60"/><img src="https://github.com/annshiv/annshiv/blob/main/Materials/postgresql.gif" alt="postgresql" width="50" height="60"/> 
+<img src="https://github.com/annshiv/annshiv/blob/main/Materials/mysql.png" alt="mysql" width="50" height="60"/>
+<img src="https://github.com/annshiv/annshiv/blob/main/Materials/mongo.gif" alt="mongodb" width="50" height="60"/>
 </p>
 
 ### Github Trophies:-
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=annshiv&theme=gruvbox"/>
@@ -59,7 +63,6 @@
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=annshiv&theme=xcode" alt="annshiv" />
 </p>
-
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=annshiv&theme=dark" alt="Annshiv" />
