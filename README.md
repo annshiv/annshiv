@@ -6,7 +6,6 @@
 
 - 🔭 I'm currently working as a software developer at LUMEL technologies
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with web development & python projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and playing games
 - 💬 Ask me about anything, I am happy to help;
