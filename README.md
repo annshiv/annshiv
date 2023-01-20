@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working as a software developer at LUMEL technologies
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Create portfolio
+- 🥅 2023 Goals: Need to learn react deeply
 - ⚡ Fun fact: I love to travel and playing games
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: annamalaipalani11@gmail.com;
