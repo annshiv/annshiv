@@ -1,6 +1,7 @@
 <h2 align="center"> Hey 👋🏽, I'm Annamalai </h2>
 
 ## I'm a Developer !!
+
    <img align="right" src="https://github-readme-stats-hf5c.vercel.app/api?username=annshiv&show_icons=true&theme=dark&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Annshiv" width="500px" />
 
 - 🔭 I'm currently working as a software developer at LUMEL technologies
@@ -8,7 +9,7 @@
 - 🥅 2023 Goals: Need to learn react deeply
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Connect with annshiv](https://annshiv.me);
-<br />
+  <br />
 
 <h2>Skills</h2>
 <p> 
