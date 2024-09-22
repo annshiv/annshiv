@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working as a software developer at LUMEL technologies
 - 🌱 I’m currently focusing on to improve my development skills
-- 🥅 2024 Goals: Need to learn react deeply
+- 🥅 2024 Goals: Learn more
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Connect with annshiv](https://annshiv.me);
   <br />
