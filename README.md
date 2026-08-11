@@ -13,8 +13,8 @@ I currently work at **LUMEL Technologies**, where I focus on crafting polished f
 
 ## Featured Projects
 
-- **[Portfolio](https://github.com/annshiv/portfolio)** — My personal portfolio website showcasing my work and background.
 - **[Hostinger Deployment](https://github.com/annshiv/Hostinger-deployment)** — Automated deployment workflow for shipping projects to Hostinger.
+  [![Stars](https://img.shields.io/github/stars/annshiv/Hostinger-deployment?style=flat-square&logo=github&label=Stars)](https://github.com/annshiv/Hostinger-deployment/stargazers)
 
 ---
 
