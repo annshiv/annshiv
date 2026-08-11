@@ -1,37 +1,26 @@
-<h2 align="center"> Hey 👋🏽, I'm Annamalai </h2>
+# Annamalai Palani
 
-## I'm a Developer !!
+**Frontend Engineer** — building clean, responsive, user-focused interfaces for the web.
 
-   <img align="right" src="https://github-readme-stats-hf5c.vercel.app/api?username=annshiv&show_icons=true&theme=dark&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Annshiv" width="500px" />
+I currently work at **LUMEL Technologies**, where I focus on crafting polished frontend experiences with an eye for maintainable, well-structured code. I'm now expanding into backend development to grow into a well-rounded full-stack engineer.
 
-- 🔭 I'm currently working as a software developer at LUMEL technologies
-- 🌱 I’m currently focusing on to improve my development skills
-- 🥅 2024 Goals: Learn more
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Connect with annshiv](https://annshiv.me);
-  <br />
+- 🔭 Working primarily on frontend development
+- 🌱 Learning backend development and system design to round out my skill set
+- 💬 Always happy to talk, review code, or help where I can
+- 📫 Reach me at **[annshiv.me](https://annshiv.me)**
 
-<h2>Skills</h2>
-<p> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="70"/>
-<img src="https://github.com/annshiv/annshiv/blob/main/Materials/js.gif" height="70" width="60">
-</p>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=annshiv&theme=dark" alt="Annshiv" width="500px" />
-    <h3>Development tools and frameworks:</h3>
-<p>
-<img src="https://github.com/annshiv/annshiv/blob/main/Materials/html.gif" alt="html5" width="50" height="60"/> 
-<img src="https://github.com/annshiv/annshiv/blob/main/Materials/css.gif" alt="css3" width="50" height="60"/>
-<img src="https://github.com/annshiv/annshiv/blob/main/Materials/bootstrap.gif" alt="bootstrap" width="50" height="60"/> 
-<img src="https://github.com/annshiv/annshiv/blob/main/Materials/angular.png" alt="angular" height="60"/>
-<img src="https://github.com/annshiv/annshiv/blob/main/Materials/django.png" alt="django" height="60"/>
-</p>
-  
-<h3>CSPs and others</h3>
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="60"/><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="60"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="60"/>
-</p>
-<h3>Databases:</h3>
-<p>
-<img src="https://github.com/annshiv/annshiv/blob/main/Materials/mysql.png" alt="mysql" width="50" height="60"/>
-<img src="https://github.com/annshiv/annshiv/blob/main/Materials/mongo.gif" alt="mongodb" width="50" height="60"/>
-</p>
+---
+
+## Featured Projects
+
+- **[Portfolio](https://github.com/annshiv/portfolio)** — My personal portfolio website showcasing my work and background.
+- **[Hostinger Deployment](https://github.com/annshiv/Hostinger-deployment)** — Automated deployment workflow for shipping projects to Hostinger.
+
+---
+
+## Connect
+
+[![Website](https://img.shields.io/badge/Website-annshiv.me-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://annshiv.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-annshiv-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annshiv/)
+[![GitHub](https://img.shields.io/badge/GitHub-annshiv-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/annshiv)
+[![Email](https://img.shields.io/badge/Email-annamalaipalani11@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:annamalaipalani11@gmail.com)
