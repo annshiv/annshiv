@@ -22,5 +22,4 @@ I currently work at **LUMEL Technologies**, where I focus on crafting polished f
 
 [![Website](https://img.shields.io/badge/Website-annshiv.me-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://annshiv.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-annshiv-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annshiv/)
-[![GitHub](https://img.shields.io/badge/GitHub-annshiv-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/annshiv)
 [![Email](https://img.shields.io/badge/Email-annamalaipalani11@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:annamalaipalani11@gmail.com)
